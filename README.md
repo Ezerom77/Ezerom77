@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezerom77
 - 👀 I’m interested in Full Stack Develpment
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Back End Development
 - 📫 How to reach me fullstack@ezequiel.solutions
 
 <!---
