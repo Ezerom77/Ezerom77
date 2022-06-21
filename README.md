@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezerom77
 - 👀 I’m interested in traveling.
-- 🌱 I’m currently learning Full Stack Develpment.
+- 🌱  Full Stack Developer
 - 📫 How to reach me fullstack@ezequiel.solutions.
 
 <!---
